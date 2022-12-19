@@ -1,0 +1,2 @@
+# komilov_cv
+KAMILOV PORTFOLIYO DJANGO + REACT = &lt;3
